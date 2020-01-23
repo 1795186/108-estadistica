@@ -9,3 +9,5 @@ lista de actividades del curso
 + creamos nuestro primer proyecto en Rstudio (*¨108-estadistica.Aproj*)
 + actualizamos nuestro repositorio via version control (*Git*)
 
++ :paperclip: clase 2: 23.01.20
++ primera tarea
