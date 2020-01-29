@@ -11,3 +11,6 @@ lista de actividades del curso
 
 + :paperclip: clase 2: 23.01.20
 + primera tarea
+
++ clase 3: 29.01.2020
+ + istalar paqueteria para R 
