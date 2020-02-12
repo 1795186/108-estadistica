@@ -46,8 +46,7 @@ boxplot(peso, col = "green", ylab= "peso (kg)" ,
         main="peso alumnos tomado el 29.01.2020")
       
 
-# descriptivas ------------------------------------------------------------  
-
+# descriptivas ------------------------------------------------------------
 
 
 

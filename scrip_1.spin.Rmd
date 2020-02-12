@@ -1,3 +1,5 @@
+
+```{r }
 # Salvador Garcia Martinez 
 # Matricula: 1795186
 # fecha : 29.01.2020 
@@ -46,12 +48,13 @@ boxplot(peso, col = "green", ylab= "peso (kg)" ,
         main="peso alumnos tomado el 29.01.2020")
       
 
-# descriptivas ------------------------------------------------------------  
+# descriptivas ------------------------------------------------------------
+```
 
 
-
-
-
-
-
+---
+title: "scrip_1.R"
+author: "Usuario"
+date: "2020-01-29"
+---
 
