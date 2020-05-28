@@ -74,5 +74,21 @@ lista de actividades del curso
   +clase aula virtual 21: 07.05.2020)
     + link del video clase 21
     
+  +clase aula virtual 22: aplicacion de una prueba de t (longitud de las semillas)(13.05.2020)
+     + link del video clase 22
+  
+  +clase aula virtal 23:(14.05.2020)
+      + link del video clase 2
+      
+  +clase aula virtal 24:ejercicio en clase (20.05.2020)
+     + link del video clase 24
+  +clase aula virtal 25: ejercicio 5 (21.05.2020)
+      + link del video clase 25
+     
+  +clase aula virtal 27:ejercicio en clase terremotos (27.05.2020)
+       + link del video clase 27
+  
+  +clase aula virtal 28:ejercicio en clase cotal (alimento para venado) (28.05.2020)
+         + link del video clase 28
   
       
